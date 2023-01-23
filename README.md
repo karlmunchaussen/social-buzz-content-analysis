@@ -1,3 +1,3 @@
-## Accenture North America Data Analytics and Visualization Virtual Experience
+### Accenture North America Data Analytics and Visualization Virtual Experience
 
-https://karlmunchaussen.github.io/social-buzz-content-analysis/
+[GitHub Pages Website with project overview](https://karlmunchaussen.github.io/social-buzz-content-analysis/)
